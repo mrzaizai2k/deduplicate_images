@@ -29,7 +29,7 @@ The executable will be available in the `dist` folder after the process complete
 
 ## How to Use
 
-1. Copy the `.exe` file from the `dist` folder (created in the previous step) to the folder containing the images you want to check for duplicates.
+1. Copy the `.exe` file from the `dist` folder (created in the previous step) or you can download from the [Releases](https://github.com/mrzaizai2k/deduplicate_images/releases/tag/v1.0.0) to the folder containing the images you want to check for duplicates.
 2. Double-click the `.exe` file. This will:
     - Identify duplicate images.
     - Move all duplicates to a newly created folder named `MCB_duplicate` within your image folder.
