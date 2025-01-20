@@ -1,6 +1,11 @@
 
 # MoveDuplicates Tool
 
+## Video Tutorial
+
+For a step-by-step guide on how to use the tool, watch the video tutorial:  
+<video src='docs/how_to_use.mp4' width=800/>
+
 ## Setting Up the Environment
 
 1. Create a virtual environment:
@@ -34,4 +39,5 @@ The executable will be available in the `dist` folder after the process complete
     - Identify duplicate images.
     - Move all duplicates to a newly created folder named `MCB_duplicate` within your image folder.
 3. Review the images in the `MCB_duplicate` folder and delete them if they are unnecessary.
+
 
