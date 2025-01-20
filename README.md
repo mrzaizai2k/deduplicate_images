@@ -4,7 +4,9 @@
 ## Video Tutorial
 
 For a step-by-step guide on how to use the tool, watch the video tutorial:  
-<video src='docs/how_to_use.mp4' width=800/>
+
+[<img src="https://img.youtube.com/vi/o6pMQoCuBs8/maxresdefault.jpg" width="100%">](https://youtu.be/o6pMQoCuBs8)
+
 
 ## Setting Up the Environment
 
